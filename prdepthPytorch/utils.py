@@ -19,7 +19,7 @@ def center_depth(gt_depth):
     gt2 = (gt_depth-(max_d-range_d/2))/(range_d/2)
     return gt2
 
-def get_midas_features(img_transform,midas):
+def get_midas_features(img_transform,midas,device):
     class SaveOutput:
         def __init__(self):
             self.outputs = []
