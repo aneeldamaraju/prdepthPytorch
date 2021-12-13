@@ -4,6 +4,12 @@ An implementation of the Xie et al work on patch-wise monocular depth estimation
 # Usage
 
 In order to use this repository, follow the next steps
+### Install dependencies
+
+- torch
+- matplotib
+- h5py 
+- numpy
 
 ### Run datareadNYUv2.py
 
