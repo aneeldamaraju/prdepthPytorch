@@ -12,4 +12,4 @@ In order to use this repository, follow the next steps
  - run datareadNYUv2.py
 
 Beyond this, if you want to see stats about the MIDAS model used on the splits of NYUv2, run ``loadsplits.py``.
-If you want to see the implementation of the model, run ``loadsplits.py``.
+If you want to see the implementation of the model, run ``run_UNET.ipynb``.
